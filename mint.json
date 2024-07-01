@@ -1,0 +1,52 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "Starter gitpaid now",
+  "logo": {
+    "dark": "/logo/dark.svg",
+    "light": "/logo/light.svg"
+  },
+  "favicon": "/favicon.svg",
+  "colors": {
+    "primary": "#9ABAFA",
+    "light": "#466DD0",
+    "dark": "#9ABAFA",
+    "anchors": {
+      "from": "#9ABAFA",
+      "to": "#466DD0"
+    }
+  },
+  "topbarLinks": [
+    {
+      "name": "Support",
+      "url": "mailto:hello@gitpaid.app"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Repo Owners",
+      "pages": [
+        "repo-owners/introduction",
+        "repo-owners/receiving-payments",
+        "repo-owners/allocating-funds",
+        "repo-owners/next-steps"
+      ]
+    },
+    {
+      "group": "Funders",
+      "pages": [
+        "funders/introduction",
+        "funders/making-payments",
+        "funders/next-steps"
+      ]
+    },
+    {
+      "group": "API Documentation",
+      "pages": ["api-reference/introduction"]
+    }
+  ],
+  "footerSocials": {
+    "x": "https://x.com/mintlify",
+    "github": "https://github.com/mintlify",
+    "linkedin": "https://www.linkedin.com/company/mintsearch"
+  }
+}
