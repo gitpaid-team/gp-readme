@@ -23,6 +23,10 @@
   ],
   "navigation": [
     {
+      "group": "Installation",
+      "pages": ["api-reference/introduction"]
+    },
+    {
       "group": "Repo Owners",
       "pages": [
         "repo-owners/introduction",
@@ -38,15 +42,11 @@
         "funders/making-payments",
         "funders/next-steps"
       ]
-    },
-    {
-      "group": "API Documentation",
-      "pages": ["api-reference/introduction"]
     }
   ],
   "footerSocials": {
     "x": "https://x.com/mintlify",
     "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "farcaster": "https://warpcast.com/~/channel/gitpaid"
   }
 }
