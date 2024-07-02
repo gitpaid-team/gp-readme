@@ -23,8 +23,7 @@
   ],
   "navigation": [
     {
-      "group": "Installation",
-      "pages": ["api-reference/introduction"]
+      "pages": ["/introduction"]
     },
     {
       "group": "Repo Owners",
