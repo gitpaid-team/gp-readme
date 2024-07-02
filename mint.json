@@ -23,7 +23,8 @@
   ],
   "navigation": [
     {
-      "pages": ["/introduction"]
+      "group": "overview",
+      "pages": ["overview/introduction"]
     },
     {
       "group": "Repo Owners",
