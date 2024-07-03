@@ -7,12 +7,12 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#9ABAFA",
-    "light": "#466DD0",
+    "primary": "#098767",
+    "light": "#67CF00",
     "dark": "#9ABAFA",
     "anchors": {
-      "from": "#9ABAFA",
-      "to": "#466DD0"
+      "from": "#098767",
+      "to": "#67CF00"
     }
   },
   "topbarLinks": [
@@ -23,29 +23,28 @@
   ],
   "navigation": [
     {
-      "group": "overview",
-      "pages": ["overview/introduction"]
+      "group": "Overview",
+      "pages": ["overview/introduction", "overview/installation"]
     },
     {
-      "group": "Repo Owners",
+      "group": "Bounties",
       "pages": [
-        "repo-owners/introduction",
-        "repo-owners/receiving-payments",
-        "repo-owners/allocating-funds",
-        "repo-owners/next-steps"
+        "bounties/introduction",
+        "bounties/funding-bounties",
+        "bounties/paying-bounties",
+        "bounties/next-steps"
       ]
     },
     {
-      "group": "Funders",
+      "group": "Payments",
       "pages": [
-        "funders/introduction",
-        "funders/making-payments",
-        "funders/next-steps"
+        "payments/introduction",
+        "payments/making-payments",
+        "payments/next-steps"
       ]
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
     "github": "https://github.com/mintlify",
     "farcaster": "https://warpcast.com/~/channel/gitpaid"
   }
