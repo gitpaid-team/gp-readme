@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Start with Gitpaid",
   "logo": {
-    "dark": "/logo/gitpaid_logo.svg",
-    "light": "/logo/gitpaid_logo_light.svg"
+    "dark": "/images/gitpaid_logo.svg",
+    "light": "/images/gitpaid_logo_light.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
