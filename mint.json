@@ -1,9 +1,9 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter gitpaid now",
+  "name": "Start with Gitpaid",
   "logo": {
-    "dark": "/logo/hero-dark.svg",
-    "light": "/logo/hero-light.svg"
+    "dark": "/logo/gitpaid_logo.svg",
+    "light": "/logo/gitpaid_logo_light.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
@@ -27,20 +27,20 @@
       "pages": ["overview/introduction", "overview/installation"]
     },
     {
-      "group": "Bounties",
+      "group": "Issues",
       "pages": [
-        "bounties/introduction",
-        "bounties/funding-bounties",
-        "bounties/paying-bounties",
-        "bounties/next-steps"
+        "issues/introduction",
+        "issues/creating-issues",
+        "issues/closing-issues"
       ]
     },
     {
-      "group": "Payments",
+      "group": "Repositories",
       "pages": [
-        "payments/introduction",
-        "payments/making-payments",
-        "payments/next-steps"
+        "repositories/introduction",
+        "repositories/funding",
+        "repositories/withdrawing",
+        "repositories/next-steps"
       ]
     }
   ],
